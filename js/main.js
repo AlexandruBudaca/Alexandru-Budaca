@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alexandru Budaca.", " a video editor.", "a graphic designer.", "web Developer."],
+      strings: ["Alexandru Budaca.", " a video editor.", "a graphic designer."],
       typeSpeed: 100,
       loop: true,
     });
